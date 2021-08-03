@@ -19,7 +19,7 @@
   Monster Mania is a collection game in which one can win a <b>random</b> Monster NFT daily! There are a total of 10 <b>unique</b> monsters.
   Your goal is to collect all the 10 unique monster NFTs. Once you have completed the collection, you'll win a <b>King Monster NFT</b> to rule the monster world.
   
-  🎬 Checkout the **[live demo](https://monster-mania.vercel.app/)** to see Monster Mania in action .
+  🎬 Checkout the **[live demo](https://monster-mania.blockcolabs.com/)** to see Monster Mania in action .
 
 <br/>
 
